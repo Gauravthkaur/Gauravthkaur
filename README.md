@@ -5,7 +5,7 @@ Welcome to my GitHub profile! Here's a little about me:
 - 👀 **I’m interested in:** Exploring cutting-edge technologies, contributing to open-source projects, and developing innovative solutions.
 - 🌱 **I’m currently learning:** Cloud computing, AI/ML, and full-stack web development.
 - 💞️ **I’m looking to collaborate on:** Exciting open-source projects, impactful community initiatives, and anything that sparks creativity.
-- 📫 **How to reach me:** Feel free to connect with me via email at [your-email@example.com] or through my [LinkedIn profile](https://linkedin.com/in/your-profile).
+- 📫 **How to reach me:** Feel free to connect with me via email at [gaurav079t@gmail.com] or through my [LinkedIn profile](https://linkedin.com/in/your-profile).
 - 😄 **Pronouns:** they/them
 - ⚡ **Fun fact:** I can code while sipping coffee and jamming to my favorite tunes!
 
