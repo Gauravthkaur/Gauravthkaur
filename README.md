@@ -35,7 +35,7 @@
 
 ## 💼 Portfolio
 Check out some of my work here:  
-👉 [My Personal Portfolio](https://gauravthkaur.dev)  
+👉 [My Personal Portfolio](https://mordern-protfolio.vercel.app/)  
 🔗 Live Demos & Case Studies
 
 ## 📈 GitHub Stats
